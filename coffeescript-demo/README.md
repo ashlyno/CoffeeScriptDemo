@@ -24,8 +24,8 @@ Additional CoffeeScript Information:
 	http://coffeescript.org/
 
 
-TO UPDATE JS FILE from COFFEESCRIPT, type the following in Terminal:
+TO UPDATE JS FILE from COFFEESCRIPT, type the following in Terminal:  
 
 	coffee -wc -o js/ coffee/*.coffee
 
-!! MAKE SURE YOU ARE IN THE CORRECT DIRECTORY (the coffeescript-demo folder)!!
+!! MAKE SURE YOU ARE IN THE CORRECT DIRECTORY (the coffeescript-demo folder)!!   
